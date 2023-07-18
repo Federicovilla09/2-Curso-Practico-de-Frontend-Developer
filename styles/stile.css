@@ -1,0 +1,14 @@
+/* Sistema de diseño, assets y variables de CSS */
+
+:root {
+  --very-light-pink: #c7c7c7;
+  --text-input-field: #f7f7f7;
+  --hospital-green: #acd9b2;
+  --black: #000000;
+  --white: #ffffff;
+  --dark: #232830;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
